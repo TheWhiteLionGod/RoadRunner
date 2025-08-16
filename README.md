@@ -1,3 +1,7 @@
+#NOTICE
+##This Repo Will Be Archived(OUT OF DATE)
+The Road Runner Code Has Been Migrated to the Main FTC Controller at [TheWhiteLionGod/Dynabytes2025](https://github.com/TheWhiteLionGod/Dynabytes2025)
+
 # Team Dynabytes 19747 Road Runner 2025
 
 This is the public road runner code for the 2025-2026 season of FTC.
